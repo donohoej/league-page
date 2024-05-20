@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "managerID": "468141313716383744",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "468138293888806912",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Joey Donohoe",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Richmond VA", // (optional)
